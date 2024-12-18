@@ -14,8 +14,8 @@
   "env": {
       "APP_ENV": "production",
       "APP_DEBUG": "false",
-      "APP_URL": "http://localhost:8000",
-      "APP_KEY": "base64:3AciQD/u2g5La+bGHVVXAIz92QgddaxdOY/LwxaaoMg=",
+      "APP_URL": "umkm-project-muhammad-thariq.vercel.app",
+      "APP_KEY": "base64:f2s+50yHEuHT5tvcW7NhmOAfKOmjXKO1cNqCuZMrscc=",
       "APP_CONFIG_CACHE": "/tmp/config.php",
       "APP_EVENTS_CACHE": "/tmp/events.php",
       "APP_PACKAGES_CACHE": "/tmp/packages.php",
