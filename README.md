@@ -146,3 +146,4 @@ protected static function boot()
 
 - **Route not found errors**: Run `php artisan route:clear` and `php artisan cache:clear`.
 - **CORS issues**: Configure your `.htaccess` for image access if using Apache, or configure your CORS policy in Laravel if using other servers.
+# Deploy
